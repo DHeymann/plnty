@@ -1,5 +1,5 @@
 {
-  "name": "ElasticExportTubach&Partner",
+  "name": "ElasticExportShopping24DE",
   "description": "This plugin adds the format Shopping24DE to the Elastic Export.",
   "namespace": "ElasticExportShopping24DE",
   "author": "plentymarkets GmbH",
@@ -16,7 +16,7 @@
   "categories": [
     "3523"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "require": ["ElasticExport"],
   "marketplaceName": {
     "de": "shopping24.de",
